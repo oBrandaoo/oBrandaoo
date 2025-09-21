@@ -6,8 +6,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-obrandaoos-projects.vercel.app/api?username=oBrandaoo&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats-8gkgfpg2x-obrandaoos-projects.vercel.app/api/top-langs/?username=oBrandaoo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oBrandaoo&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrandaoo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
